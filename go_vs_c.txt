@@ -1,0 +1,36 @@
+Go is better than C/C++ because it has a better garbage collection for safe memory use. 
+This prevents leaks and unused data is re-used again.
+
+The main advantage of using this language over any other is that it is very good for concurrent programming.
+It can run multiple processes at the same time with different threads.
+Go code is very much simpler than C/C++ as it does not have unnecessary brackets/parentheses
+and has a lot more built in funcitions to write code easily. 
+
+GO is a high level language which makes it easy to read and code whereas C++ is a mid level language which makes
+it harder to read and code. GO is top-bottom approach language so you code only details that are relevant to you
+whereas C++ is a bottom-top language which means you code every little thing to make the program fully controllable.
+
+GO has significantly quicker compile time than C/C++, the reason being C++ code is longer and complex due to 
+which the compile time is longer for large programs.
+It also has quicker time when we're comparing with writing the code as Go is much easy to code
+Compile speed matters a lot because a code for a larger program needs to be tested/compiled several times to check for 
+errors/functionality and if the compilation time is longer, it reduces efficiency.
+
+C++ has constructors and deconstructors for its classes and structs which make the program longer and coding part 
+harder. GO doesnt have these as it uses concurrency.
+
+Golang can boast speeds of close to four times quicker than other interpreted and dynamic languages.
+
+A major vulnerability of C/C++ is the buffer overflow problem when large data doesnt get stored into memory
+correctly and it leads to holes and can cause crashes to the system. GO has limitaitons set to 
+overcome this problem that comes in C language and there is very minimal chance buffer overflow problem in Go.
+There can be buffer overflow problem in Go but it is very rare because it makes sure that the programmer checks
+bounds to prevent this. C++ is not very strict like Go so it can lead a programmer to have this vulnerability.
+
+Go is  a procedural language which means the program will follow steps in order we want them to execute,
+whereas C++ is object oriented so we have to control all actions which makes code more complex and detailed
+That is why if we want to change a built-in function in Go, it is very difficult and if you want to do the same
+in C++, it allows you to do it easily.
+
+
+
