@@ -32,5 +32,15 @@ whereas C++ is object oriented so we have to control all actions which makes cod
 That is why if we want to change a built-in function in Go, it is very difficult and if you want to do the same
 in C++, it allows you to do it easily.
 
+Go built-in tools
+testing
+benchmarking
+profiling (CPU, memory, blocking)
+huge standard library
+"go get"
+godoc
+gofmt, goimports
+race detector
+static binaries
 
 
