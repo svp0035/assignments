@@ -1,12 +1,12 @@
 package main
 
 import (
-	"fmt"
-
 	"github.com/svp0035/gopractice/sample"
+	"github.com/svp0035/gopractice/variables"
 )
 
 func main() {
-	fmt.Println("Hello World")
 	sample.SampleFunc()
+	variables.VarDeclarationInt()
+	variables.VarDeclarationString()
 }
