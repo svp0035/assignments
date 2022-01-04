@@ -2,7 +2,7 @@ package variables
 
 import "fmt"
 
-// FunctionalScope
+// FunctionalScope -
 func FunctionalScope() {
 	var a int = 10
 	fmt.Println("a:", a)
@@ -10,7 +10,7 @@ func FunctionalScope() {
 	fmt.Println("global variable in functoin is accessed : ", Global) // Global variables is accessed
 }
 
-// FunctionalScope2
+// FunctionalScope2 -
 func FunctionalScope2() {
 	//fmt.Println(a) Code will not execute because "a" is declared in a function and is not accessible outside
 }

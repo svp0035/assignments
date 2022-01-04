@@ -2,6 +2,7 @@ package variables
 
 import "fmt"
 
+// DataTypes -
 func DataTypes() {
 
 	var snow bool = false
