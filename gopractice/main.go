@@ -13,5 +13,7 @@ func main() {
 	// variables.PackageVariables()
 	// variables.GlobalVariables()
 	// fmt.Println("Value of Global variable in other package is: ", variables.Global)
-	variables.DataTypes()
+	// variables.DataTypes()
+	variables.ArithmeticInt()
+	variables.ArithmeticFloat()
 }
